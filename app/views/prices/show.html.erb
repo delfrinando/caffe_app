@@ -1,0 +1,24 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Id drinks:</strong>
+  <%= @price.id_drinks %>
+</p>
+
+<p>
+  <strong>Tall:</strong>
+  <%= @price.tall %>
+</p>
+
+<p>
+  <strong>Grande:</strong>
+  <%= @price.grande %>
+</p>
+
+<p>
+  <strong>Venti:</strong>
+  <%= @price.venti %>
+</p>
+
+<%= link_to 'Edit', edit_price_path(@price) %> |
+<%= link_to 'Back', prices_path %>

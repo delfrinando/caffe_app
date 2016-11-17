@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id_drinks: MyString
+  tall: 1.5
+  grande: 1.5
+  venti: 1.5
+
+two:
+  id_drinks: MyString
+  tall: 1.5
+  grande: 1.5
+  venti: 1.5
