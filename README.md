@@ -1,16 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This Ruby on Rails simple application made by Delfrinando Pranata as requested by wego.com for technical test.
 
-Things you may want to cover:
 
 * Ruby version
-
 ```
 ruby 2.2.4p230 (2015-12-16 revision 53155) [i386-mingw32]
 ```
-
 
 * Deployment instructions
 
@@ -21,3 +17,5 @@ Here is the step that you should do!
     3. Then migrate the default database by using "rake db:seed"
     4. Run the server using "rails s"
 ```
+
+
